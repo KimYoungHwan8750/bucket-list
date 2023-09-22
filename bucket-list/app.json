@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "bucket-list",
+    "slug": "bucket-list",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img_wearVillageLogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/img_wearVillageLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img_wearVillageLogo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/img_wearVillageLogo.png"
+    }
+  }
+}
